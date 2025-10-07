@@ -1,5 +1,5 @@
 # 💫 About Me:
-👧🏻Airla Guimarães Carvalho<br>👩🏻‍💻Desenvolvedora Júnior Python<br>📈Trader profissional em Criptomoedas<br>📝Colaboro no projeto SIGMA com foco em Rede de Internet<br>Comunitária<br>🎓Formação em Gestão em Tecnologia da Informação<br>📓Graduanda em Sistemas para Internet IFSertãoPE<br>💬Automação com placas para soluções IoT<br>⚡ Multi-instrumentista<br>
+👧🏻Airla Guimarães Carvalho<br>👩🏻‍💻Desenvolvedora Júnior Full Stack Python<br>📈Trader profissional em Criptomoedas<br>📝Colaboro no projeto SIGMA com foco em Rede de Internet<br>Comunitária<br>🎓Formação em Gestão em Tecnologia da Informação<br>📓Graduanda em Sistemas para Internet IFSertãoPE<br>💬Automação com placas para soluções IoT<br>⚡ Multi-instrumentista<br>
 
 
 ## 🌐 Socials:
